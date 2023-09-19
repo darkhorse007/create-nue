@@ -5,7 +5,8 @@
 # check: scripts/render.js
 
 title: A barebones Nue app
-heading: Frontend Troublesolver
+heading: Frontend
+heading_em: Troublemaker
 description: Nue is a set of tools to make web developer's life easier
 github: nuejs/create-nue
 favicon: img/stack.svg
